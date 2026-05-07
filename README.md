@@ -21,6 +21,14 @@ This repository contains the source data and analysis/plotting scripts used in t
 
 # Folder Description
 
+## `sourceData/`
+
+Contains source data files corresponding to manuscript figures and supplementary figures.
+
+These files were used to generate the figures shown in the manuscript.
+
+---
+
 ## `F3_crossValidation/`
 
 Scripts and source data for cross-validation benchmarking across machine learning and deep learning models.
@@ -126,18 +134,6 @@ Related manuscript figures:
 - Supplementary Figures 4–6
 
 ---
-
-## `sourceData/`
-
-Contains source data files corresponding to manuscript figures and supplementary figures.
-
-Example files:
-- `F3_b_LR_sourceData.txt`
-- `F3_c_CNN_sourceData.txt`
-- `F7_a-c_sourceData.txt`
-- `F4_A-F_sourceData.txt`
-
-These files were used to generate the figures shown in the manuscript.
 
 # Notes
 
