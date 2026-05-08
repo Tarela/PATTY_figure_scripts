@@ -1,4 +1,4 @@
-# PATTY Manuscript Source Data and Figure Generation Code
+# PATTY Manuscript Results and Figures Generation Code
 
 This repository contains the source data and analysis/plotting scripts used in the PATTY manuscript, mainly focusing on reproducing manuscript figures, supplementary figures, and associated source data files.
 
